@@ -1,2 +1,2 @@
 # Java_AzureAppInsights_Logback_Springboot
-It will have all the Java related POC or projects
+This Repository is having the spring boot java project which will send the logback logs to azure app insights 
